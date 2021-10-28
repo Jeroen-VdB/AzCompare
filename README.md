@@ -41,3 +41,6 @@ Update `appsettings.json`.
   }
 }
 ```
+
+### Result
+![Getting Started Example Result](./docs/img/getting-started-result-example.png)
